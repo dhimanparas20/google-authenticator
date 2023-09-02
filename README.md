@@ -1,6 +1,6 @@
-# Your Website Name
+# Google Authenticator
 
-This  Website Name is a user-friendly web application that allows users to register and log in using their email or Google account. The website also features an OTP (One-Time Password) authentication system for enhanced security. User data is stored in an SQLite database, and secure sessions are maintained for each user.
+This is a user-friendly web application that allows users to register and log in using their email or Google account. The website also features an OTP (One-Time Password) authentication system for enhanced security. User data is stored in an SQLite database, and secure sessions are maintained for each user.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ This  Website Name is a user-friendly web application that allows users to regis
 -  APP_SECRET_KEY and SECRET_KEY: Secret keys for securing your application.
 -  DEBUG: Set to True for development mode.
 -  GMAIL_ADDRESS and GMAIL_Name: Gmail credentials for sending OTP emails.
--  BREVO_API: API key for utilizing Brevo weather API (if applicable).
+-  BREVO_API: API key for utilizing Brevo OTP API (if applicable).
 
 ## Usage
 
